@@ -1,0 +1,14 @@
+# .NET
+bin
+obj
+.user
+appsettings.Development.json
+
+# Angular
+node_modules
+.angular
+dist
+
+# DB
+.mdf
+.ldf
