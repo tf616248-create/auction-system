@@ -138,3 +138,4 @@ Y:\Groups\group_3\תהילה פריד\מבחן\AuctionSystem.API\obj\Debug\net8.
 Y:\Groups\group_3\תהילה פריד\מבחן\AuctionSystem.API\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
 Y:\Groups\group_3\תהילה פריד\מבחן\AuctionSystem.API\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
 Y:\Groups\group_3\תהילה פריד\מבחן\AuctionSystem.API\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+Y:\Groups\group_3\תהילה פריד\מבחן\AuctionSystem.API\obj\Debug\net8.0\AuctionSystem.API.sourcelink.json

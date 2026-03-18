@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\BidService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\BidService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\AuctionService.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuctionService.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Hubs\\AuctionHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hubs\\AuctionHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\DTOs\\AuctionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\AuctionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Hubs\\AuctionHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hubs\\AuctionHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Interfaces\\IAuctionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuctionExpiryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\AuctionService.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuctionService.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -66,63 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuctionDto.cs",
-              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\DTOs\\AuctionDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\AuctionDto.cs",
-              "ToolTip": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\DTOs\\AuctionDto.cs",
-              "RelativeToolTip": "DTOs\\AuctionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T09:11:57.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:56:31.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BidService.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\BidService.cs",
               "RelativeDocumentMoniker": "Services\\BidService.cs",
               "ToolTip": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\BidService.cs",
               "RelativeToolTip": "Services\\BidService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAA8AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T09:13:19.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T08:52:14.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AuctionHub.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Hubs\\AuctionHub.cs",
               "RelativeDocumentMoniker": "Hubs\\AuctionHub.cs",
@@ -135,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IAuctionService.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Interfaces\\IAuctionService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IAuctionService.cs",
@@ -143,12 +117,11 @@
               "RelativeToolTip": "Interfaces\\IAuctionService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T09:12:18.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T09:12:18.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IBidService.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Interfaces\\IBidService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IBidService.cs",
@@ -156,12 +129,11 @@
               "RelativeToolTip": "Interfaces\\IBidService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T09:12:37.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T09:12:37.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Auction.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Models\\Auction.cs",
               "RelativeDocumentMoniker": "Models\\Auction.cs",
@@ -169,12 +141,11 @@
               "RelativeToolTip": "Models\\Auction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:55:37.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T08:55:37.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Bid.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Models\\Bid.cs",
               "RelativeDocumentMoniker": "Models\\Bid.cs",
@@ -182,12 +153,11 @@
               "RelativeToolTip": "Models\\Bid.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:56:03.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T08:56:03.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AuctionRoutes.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Routes\\AuctionRoutes.cs",
               "RelativeDocumentMoniker": "Routes\\AuctionRoutes.cs",
@@ -195,12 +165,11 @@
               "RelativeToolTip": "Routes\\AuctionRoutes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T09:13:43.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T09:13:43.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BidRoutes.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Routes\\BidRoutes.cs",
               "RelativeDocumentMoniker": "Routes\\BidRoutes.cs",
@@ -208,12 +177,11 @@
               "RelativeToolTip": "Routes\\BidRoutes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T09:14:02.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T09:14:02.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AuctionExpiryService.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\AuctionExpiryService.cs",
               "RelativeDocumentMoniker": "Services\\AuctionExpiryService.cs",
@@ -221,21 +189,44 @@
               "RelativeToolTip": "Services\\AuctionExpiryService.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAQwDcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T09:18:42.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T09:18:42.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "AuctionService.cs",
               "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\AuctionService.cs",
               "RelativeDocumentMoniker": "Services\\AuctionService.cs",
               "ToolTip": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Services\\AuctionService.cs",
               "RelativeToolTip": "Services\\AuctionService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T09:12:54.882Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:56:31.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuctionDto.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\DTOs\\AuctionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuctionDto.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05EA\u05D4\u05D9\u05DC\u05D4 \u05E4\u05E8\u05D9\u05D3\\\u05DE\u05D1\u05D7\u05DF\\AuctionSystem.API\\DTOs\\AuctionDto.cs",
+              "RelativeToolTip": "DTOs\\AuctionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:11:57.414Z"
             },
             {
               "$type": "Document",
@@ -247,8 +238,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAIAAAAwN9panpEiwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-18T08:58:10.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T08:58:10.834Z"
             },
             {
               "$type": "Bookmark",
