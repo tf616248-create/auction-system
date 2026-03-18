@@ -1,0 +1,43 @@
+.container {
+  padding: 24px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.auction-card,
+.bid-card {
+  margin-bottom: 24px;
+  background-color: var(--card-bg) !important;
+  color: var(--text-color) !important;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.price {
+  font-size: 1.4rem;
+  color: var(--primary);
+}
+
+.status-active {
+  color: var(--status-active);
+}
+
+.status-closed {
+  color: var(--status-closed);
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.spinner-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+}

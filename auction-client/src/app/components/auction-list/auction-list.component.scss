@@ -1,0 +1,42 @@
+.container {
+  padding: 24px;
+}
+
+h1 {
+  margin-bottom: 24px;
+  color: var(--text-color);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.auction-card {
+  cursor: pointer;
+  background-color: var(--card-bg) !important;
+  color: var(--text-color) !important;
+
+  .price {
+    font-size: 1.1rem;
+    margin: 8px 0;
+    color: var(--text-color);
+  }
+}
+
+.spinner-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+}
+
+.chip-active {
+  background-color: var(--status-active) !important;
+  color: white !important;
+}
+
+.chip-closed {
+  background-color: var(--status-closed) !important;
+  color: white !important;
+}

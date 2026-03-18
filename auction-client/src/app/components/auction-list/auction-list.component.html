@@ -1,0 +1,40 @@
+<div class="container">
+  <h1>מכירות פומביות</h1>
+
+  <div *ngIf="isLoading" class="spinner-wrapper">
+    <mat-spinner></mat-spinner>
+  </div>
+
+  <div class="grid" *ngIf="!isLoading">
+    <mat-card *ngFor="let auction of auctions" class="auction-card">
+      <mat-card-header>
+        <mat-card-title>{{ auction.title }}</mat-card-title>
+      </mat-card-header>
+
+      <mat-card-content>
+        <p class="price">
+          מחיר נוכחי: <strong>₪{{ auction.currentPrice }}</strong>
+        </p>
+        <p>
+          זמן שנותר:
+          <strong>{{ formatTime(auction.timeRemainingSeconds) }}</strong>
+        </p>
+        <mat-chip
+          [class]="auction.status === 'Active' ? 'chip-active' : 'chip-closed'"
+        >
+          {{ auction.status === "Active" ? "פעילה" : "נסגרה" }}
+        </mat-chip>
+      </mat-card-content>
+
+      <mat-card-actions>
+        <button
+          mat-raised-button
+          color="primary"
+          [routerLink]="['/auction', auction.id]"
+        >
+          כניסה למכירה
+        </button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>
